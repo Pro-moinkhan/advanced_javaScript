@@ -38,7 +38,7 @@ if(name2){
 else{
     console.log("condition is false")
 }
-// NOTE string with white space(' '), "0", [](array without property), {}(object without property), value = true are truthy in java script.
+// NOTE string with white space(' '), "0", 1, [](array without property), {}(object without property), value = true are truthy in java script.
 // NOTE remember 0, ""(empty string), undefined, null, NaN, value = false is falsy in java script.
 // let number = NaN;
 // let number = null;
